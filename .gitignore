@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Temporary uploaded files & Python cache
+temp_uploads/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+.env
